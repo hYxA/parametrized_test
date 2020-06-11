@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cf91c236-e561-46ff-b39c-03f8094b549c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,6 +34,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Netology\Java для тестировщиков\Лекция\src\test" />
+      <recent name="D:\Netology\Java для тестировщиков\Лекция\src" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,5 +54,26 @@
       <updated>1591908546940</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1624" y="410" width="497" height="605" key="#Notifications" timestamp="1591909378909">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1624" y="410" width="497" height="605" key="#Notifications/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1591909378909" />
+    <state x="1460" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591909443118">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1460" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1591909443118" />
   </component>
 </project>
