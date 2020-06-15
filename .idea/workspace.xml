@@ -7,7 +7,13 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf91c236-e561-46ff-b39c-03f8094b549c" name="Default Changelist" comment="" />
@@ -42,6 +48,20 @@
       <recent name="D:\Netology\Java для тестировщиков\Лекция\src" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BonusService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -60,20 +80,37 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1624" y="410" width="497" height="605" key="#Notifications" timestamp="1591909378909">
+    <state x="1624" y="410" width="497" height="605" key="#Notifications" timestamp="1592253958553">
       <screen x="1366" y="0" width="1280" height="1024" />
     </state>
-    <state x="1624" y="410" width="497" height="605" key="#Notifications/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1591909378909" />
+    <state x="1624" y="410" width="497" height="605" key="#Notifications/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1592253958553" />
     <state x="1460" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591909443118">
       <screen x="1366" y="0" width="1280" height="1024" />
     </state>
     <state x="1460" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1591909443118" />
+    <state x="1669" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1592253370608">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1669" y="221" width="672" height="678" key="search.everywhere.popup/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1592253370608" />
   </component>
 </project>
