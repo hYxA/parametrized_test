@@ -16,7 +16,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf91c236-e561-46ff-b39c-03f8094b549c" name="Default Changelist" comment="" />
+    <list default="true" id="cf91c236-e561-46ff-b39c-03f8094b549c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -40,18 +44,26 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Netology\Java для тестировщиков\Лекция\src\test" />
       <recent name="D:\Netology\Java для тестировщиков\Лекция\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.BonusServiceTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="BonusService" />
@@ -59,8 +71,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BonusServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BonusService" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BonusServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BonusServiceTest" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -115,9 +137,29 @@
       <screen x="1366" y="0" width="1280" height="1024" />
     </state>
     <state x="1460" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1591909443118" />
-    <state x="1669" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1592253370608">
+    <state width="618" height="272" key="GridCell.Tab.0.bottom" timestamp="1593528775739">
       <screen x="1366" y="0" width="1280" height="1024" />
     </state>
-    <state x="1669" y="221" width="672" height="678" key="search.everywhere.popup/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1592253370608" />
+    <state width="618" height="272" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593528775739" />
+    <state width="618" height="272" key="GridCell.Tab.0.center" timestamp="1593528775739">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="618" height="272" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593528775739" />
+    <state width="618" height="272" key="GridCell.Tab.0.left" timestamp="1593528775738">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="618" height="272" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593528775738" />
+    <state width="618" height="272" key="GridCell.Tab.0.right" timestamp="1593528775739">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="618" height="272" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593528775739" />
+    <state x="1664" y="332" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593527282908">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1664" y="332" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593527282908" />
+    <state x="1669" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1593526679170">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1669" y="221" width="672" height="678" key="search.everywhere.popup/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593526679170" />
   </component>
 </project>
