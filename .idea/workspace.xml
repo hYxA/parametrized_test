@@ -16,7 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf91c236-e561-46ff-b39c-03f8094b549c" name="Default Changelist" comment="">
+    <list default="true" id="cf91c236-e561-46ff-b39c-03f8094b549c" name="Default Changelist" comment="add junit jupiter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -63,6 +63,12 @@
       <recent name="D:\Netology\Java для тестировщиков\Лекция\src" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+      <command value="mvn clean test" />
+    </option>
+  </component>
   <component name="RunManager" selected="JUnit.BonusServiceTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -80,9 +86,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BonusServiceTest.shouldCalculateForRegisteredAndOverLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BonusService" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BonusServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateForRegisteredAndOverLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BonusServiceTest.shouldCalculateForRegisteredAndUnderLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BonusService" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BonusServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateForRegisteredAndUnderLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.BonusServiceTest" />
+        <item itemvalue="JUnit.BonusServiceTest.shouldCalculateForRegisteredAndOverLimit" />
+        <item itemvalue="JUnit.BonusServiceTest.shouldCalculateForRegisteredAndUnderLimit" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -98,6 +126,14 @@
       <option name="presentableId" value="Default" />
       <updated>1591908546940</updated>
     </task>
+    <task id="LOCAL-00001" summary="add junit jupiter">
+      <created>1593528852793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593528852793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +160,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add junit jupiter" />
+    <option name="LAST_COMMIT_MESSAGE" value="add junit jupiter" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1624" y="410" width="497" height="605" key="#Notifications" timestamp="1592253958553">
       <screen x="1366" y="0" width="1280" height="1024" />
@@ -137,29 +177,33 @@
       <screen x="1366" y="0" width="1280" height="1024" />
     </state>
     <state x="1460" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1591909443118" />
-    <state width="618" height="272" key="GridCell.Tab.0.bottom" timestamp="1593528775739">
+    <state width="1236" height="272" key="GridCell.Tab.0.bottom" timestamp="1593533226512">
       <screen x="1366" y="0" width="1280" height="1024" />
     </state>
-    <state width="618" height="272" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593528775739" />
-    <state width="618" height="272" key="GridCell.Tab.0.center" timestamp="1593528775739">
+    <state width="1236" height="272" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593533226512" />
+    <state width="1236" height="272" key="GridCell.Tab.0.center" timestamp="1593533226512">
       <screen x="1366" y="0" width="1280" height="1024" />
     </state>
-    <state width="618" height="272" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593528775739" />
-    <state width="618" height="272" key="GridCell.Tab.0.left" timestamp="1593528775738">
+    <state width="1236" height="272" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593533226512" />
+    <state width="1236" height="272" key="GridCell.Tab.0.left" timestamp="1593533226511">
       <screen x="1366" y="0" width="1280" height="1024" />
     </state>
-    <state width="618" height="272" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593528775738" />
-    <state width="618" height="272" key="GridCell.Tab.0.right" timestamp="1593528775739">
+    <state width="1236" height="272" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593533226511" />
+    <state width="1236" height="272" key="GridCell.Tab.0.right" timestamp="1593533226512">
       <screen x="1366" y="0" width="1280" height="1024" />
     </state>
-    <state width="618" height="272" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593528775739" />
+    <state width="1236" height="272" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593533226512" />
     <state x="1664" y="332" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593527282908">
       <screen x="1366" y="0" width="1280" height="1024" />
     </state>
     <state x="1664" y="332" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593527282908" />
-    <state x="1669" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1593526679170">
+    <state x="1662" y="231" width="672" height="677" key="run.anything.popup" timestamp="1593533190395">
       <screen x="1366" y="0" width="1280" height="1024" />
     </state>
-    <state x="1669" y="221" width="672" height="678" key="search.everywhere.popup/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593526679170" />
+    <state x="1662" y="231" width="672" height="677" key="run.anything.popup/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593533190395" />
+    <state x="1669" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1593532159767">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1669" y="221" width="672" height="678" key="search.everywhere.popup/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593532159767" />
   </component>
 </project>
