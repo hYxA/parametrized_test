@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="BonusService" />
+        <module name="Лекция" />
+        <module name="Циклы, параметризованные тесты и аннотации" />
         <module name="Система сборки Maven" />
       </profile>
     </annotationProcessing>
