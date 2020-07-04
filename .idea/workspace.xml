@@ -17,7 +17,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf91c236-e561-46ff-b39c-03f8094b549c" name="Default Changelist" comment="add junit jupiter">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mintty.exe.stackdump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BonusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/bonus/BonusServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BonusService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/BonusServiceTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-BonusServiceTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BonusServiceTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +67,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.netology.bonus" />
       <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -202,10 +215,10 @@
       <screen x="1366" y="0" width="1280" height="1024" />
     </state>
     <state width="1236" height="272" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593534942355" />
-    <state x="1664" y="332" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593527282908">
+    <state x="1664" y="332" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593891699207">
       <screen x="1366" y="0" width="1280" height="1024" />
     </state>
-    <state x="1664" y="332" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593527282908" />
+    <state x="1664" y="332" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1593891699207" />
     <state x="1662" y="231" width="672" height="677" key="run.anything.popup" timestamp="1593534913828">
       <screen x="1366" y="0" width="1280" height="1024" />
     </state>
