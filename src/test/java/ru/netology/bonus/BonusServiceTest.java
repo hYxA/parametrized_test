@@ -10,15 +10,11 @@ import static org.junit.jupiter.api.Assertions.*;
 class BonusServiceTest {
 
     @ParameterizedTest
-    @CsvFileSource(name =
-            "'registered user, bonus under limit', 100060, true, 30",
-            "'registered user, bonus over limit', 100000060, true, 500"
-    },
-            delimiter = ',')
+    @CsvFileSource(resources = "/data.csv")
 
     void shouldCalculate(String testName, long amount, boolean registered, long expected) {
-        BonusService service = new BonusService();
 
+        BonusService service = new BonusService();
 
         // вызываем целевой метод
         long actual = service.calculate(amount, registered);
